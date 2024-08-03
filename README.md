@@ -2,7 +2,7 @@
 
 I learn new things about technologies around programming language. I'm currently studying at university in Surabaya. I’m interested in web development and mobile development. I’m currently learning about web development. Software Developer Enthusiast
 
-- 📫 How to reach me : @myfirnanda@gmail.com
+- 📫 How to reach me : myfirnanda@gmail.com
 
 🛠️Language and Tools:
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
