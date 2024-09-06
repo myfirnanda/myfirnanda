@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 Currently Exploring: Building robust web applications as a Fullstack Developer.
-👯 Open to Collaborate: Passionate about teaming up on innovative Web Application projects.
-🤝 Seeking Guidance: Always eager to learn from experienced professionals—especially in advanced backend development.
-🌱 Growing Skills: Diving deep into Spring Boot and AWS to enhance my cloud and backend expertise.
-⚡ Fun Fact: I’m a tech enthusiast who enjoys unraveling complex problems—both in code and in life!
-
+🔭 Currently Exploring: Building robust web applications as a Fullstack Developer.<br>
+👯 Open to Collaborate: Passionate about teaming up on innovative Web Application projects.<br>
+🤝 Seeking Guidance: Always eager to learn from experienced professionals—especially in advanced backend development.<br>
+🌱 Growing Skills: Diving deep into Spring Boot and AWS to enhance my cloud and backend expertise.<br>
+⚡ Fun Fact: I’m a tech enthusiast who enjoys unraveling complex problems—both in code and in life!<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@my.firnanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochammad-yoga-firnanda) 
